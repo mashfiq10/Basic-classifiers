@@ -1,11 +1,10 @@
 #!/usr/bin/python
 
 #################################################
-# CS5783: Machine Learning #
-# Assignment 1: Basic Classifier #
-# Problem 2: Constructing a simple data set #
-# Problem 3: Linear classifier #
-# Problem 4: Nearest neighbors classification #
+# Basic Classifier #
+# Constructing a simple data set #
+# Linear classifier #
+# Nearest neighbors classification #
 # Sk. Mashfiqur Rahman #
 #################################################
 
